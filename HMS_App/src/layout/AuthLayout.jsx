@@ -1,7 +1,7 @@
 // import React from 'react'
 import { AppSidebar } from "@/components/custom/AppSidebar";
 import { SidebarProvider, SidebarTrigger } from "@/components/ui/sidebar";
-import logo from "../assets/Hi2.png";
+import logo from "../assets/HI2.png";
 import { Link, useLocation } from "react-router-dom";
 import { useEffect, useState } from "react";
 
