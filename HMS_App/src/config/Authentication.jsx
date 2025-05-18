@@ -1,7 +1,7 @@
 // import React from 'react'
 
 import { Outlet, useLocation, useNavigate } from "react-router-dom";
-import AuthLayout from "../Layout/AuthLayout";
+import AuthLayout from "../layout/AuthLayout.jsx";
 import { useEffect, useState } from "react";
 import PublicNav from "@/components/ui/PublicNav";
 import { useSelector } from "react-redux";
