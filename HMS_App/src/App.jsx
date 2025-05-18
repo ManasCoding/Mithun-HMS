@@ -1,6 +1,6 @@
 // import React from 'react'
 import { Route, Routes } from "react-router-dom";
-import PublicLayout from "./Layout/PublicLayout";
+import PublicLayout from "./layout/PublicLayout";
 import { PublicRoutes } from "./routes/PublicRoutes";
 import { AuthRoutes } from "./routes/AuthRoutes";
 import Authentication from "./config/Authentication";
